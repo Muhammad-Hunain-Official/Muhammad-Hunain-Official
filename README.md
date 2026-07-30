@@ -112,7 +112,7 @@ fun_fact: "I believe consistency beats intensity — one commit at a time."
 
 ## 📬 Let's Connect
 
-<div align="center">
+<div align="center" border = 50px>
   <a href="mailto:hunainijaz200@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-b983ff?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -134,3 +134,4 @@ fun_fact: "I believe consistency beats intensity — one commit at a time."
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
+ 

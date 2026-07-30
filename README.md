@@ -76,22 +76,17 @@ fun_fact: "I believe consistency beats intensity — one commit at a time."
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 📊 GitHub Analytics
+ 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Hunain-Official&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=b983ff&icon_color=8a2be2&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Hunain-Official&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=b983ff&text_color=c9d1d9"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Hunain-Official&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=b983ff&icon_color=8a2be2&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Hunain-
+    Official&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=b983ff&text_color=c9d1d9"/> -->
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Hunain-Official&theme=radical&hide_border=true&background=0d1117&ring=b983ff&fire=8a2be2&currStreakLabel=b983ff"/>
 </div>
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Hunain-Official&theme=radical&no-frame=true&margin-w=15&row=1&column=6"/>
-</div>
-
-### 📈 Contribution Graph
+📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Hunain-Official&theme=react-dark&hide_border=true&bg_color=0d1117&color=b983ff&line=8a2be2&point=ffffff"/>
@@ -99,25 +94,7 @@ fun_fact: "I believe consistency beats intensity — one commit at a time."
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🎯 Featured Projects
 
-<div align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Hunain-Official&repo=project-one&theme=radical&hide_border=true&bg_color=0d1117&title_color=b983ff"/>
-  </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Hunain-Official&repo=project-two&theme=radical&hide_border=true&bg_color=0d1117&title_color=b983ff"/>
-  </a>
-  <br/>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Hunain-Official&repo=project-three&theme=radical&hide_border=true&bg_color=0d1117&title_color=b983ff"/>
-  </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Hunain-Official&repo=project-four&theme=radical&hide_border=true&bg_color=0d1117&title_color=b983ff"/>
-  </a>
-</div>
-
-> 💡 *Replace project-one, project-two, etc. with your actual repository names once ready — these pin cards will automatically populate with live stats.*
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 

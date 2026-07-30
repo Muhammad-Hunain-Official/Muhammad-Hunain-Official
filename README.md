@@ -96,9 +96,9 @@ fun_fact: "I believe consistency beats intensity — one commit at a time."
 
 
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"> -->
 
-## 🗺️ 2026 Goals
+🗺️ 2026 Goals
 
 - [ ] 🐍 Master Python fundamentals & write clean, idiomatic code
 - [ ] 🧮 Strengthen Data Structures & Algorithms through consistent practice
@@ -127,8 +127,7 @@ fun_fact: "I believe consistency beats intensity — one commit at a time."
 <br/>
 
 <div align="center">
-
-### 💜 Thanks for visiting my profile!
+💜 Thanks for visiting my profile!
 *"The expert in anything was once a beginner."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>

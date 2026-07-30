@@ -6,7 +6,6 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/muhmmad-hunain/">
-    <img src="https://raw.githubusercontent.com/Muhammad-Hunain-Official/Muhammad-Hunain-Official/main/assets/typing-banner.svg" alt="Typing SVG" width="700"/>
   </a>
 </div>
 

@@ -1,4 +1,117 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0F172A,100:1E3A8A&height=250&section=header&text=MUHAMMAD%20HUNAIN&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20AI%20Engineer%20%7C%20BS%20Computer%20Science%20Student&descAlignY=55&descAlign=50" width="100%"/> </div> <br/> <a href="https://linkedin.com/in/muhmmmad-hunain"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=B983FF&center=true&vCenter=true&width=650&lines=BS+Computer+Science+Student;Aspiring+AI+Engineer;Learning+Python+%26+Machine+Learning;Building+Real-World+Projects+%F0%9F%9A%80" alt="Typing SVG" /> </a> <br/>  </div> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"> ## 🧬 About Me
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0F172A,100:1E3A8A&height=250&section=header&text=MUHAMMAD%20HUNAIN&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20AI%20Engineer%20%7C%20BS%20Computer%20Science%20Student&descAlignY=55&descAlign=50" width="100%"/> </div> <br/> <a href="https://linkedin.com/in/muhmmmad-hunain"> <svg viewBox="0 0 700 90" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code', 'JetBrains Mono', 'Courier New', monospace">
+  <defs>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF"/>
+      <stop offset="50%" stop-color="#7C4DFF"/>
+      <stop offset="100%" stop-color="#00E5FF"/>
+      <animate attributeName="x1" values="-30%;130%;-30%" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="70%;230%;70%" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="blobA" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7C4DFF" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#7C4DFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blobB" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blobC" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#536DFE" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#536DFE" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="bigBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <clipPath id="pillClip">
+      <rect x="1" y="1" width="698" height="88" rx="18" ry="18"/>
+    </clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="698" height="88" rx="18" ry="18" fill="#0a0e17"/>
+
+  <g clip-path="url(#pillClip)" filter="url(#bigBlur)">
+    <circle cx="90" cy="20" r="60" fill="url(#blobA)">
+      <animate attributeName="cx" values="90;180;90" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="610" cy="75" r="70" fill="url(#blobB)">
+      <animate attributeName="cx" values="610;500;610" dur="11s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="350.0" cy="110" r="65" fill="url(#blobC)">
+      <animate attributeName="cy" values="110;60;110" dur="8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <clipPath id="clip-0">
+    <rect x="149.12" y="0" width="0" height="90">
+      <animate attributeName="width" keyTimes="0.0;0.15625;0.208333;0.25;1.0" values="0.0;401.76;401.76;0.0;0.0"
+               dur="19.2s" repeatCount="indefinite" calcMode="linear"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#clip-0)">
+    <text x="149.12" y="52.68" font-size="24" font-weight="600"
+          fill="url(#textGrad)" filter="url(#softGlow)">BS Computer Science Student</text>
+  </g>
+  <rect x="149.12" y="21.6" width="2.8" height="27.6" fill="#7C4DFF" filter="url(#softGlow)">
+    <animate attributeName="x" keyTimes="0.0;0.15625;0.208333;0.25;1.0" values="149.12;550.88;550.88;149.12;149.12"
+             dur="19.2s" repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
+  </rect>
+
+  <clipPath id="clip-1">
+    <rect x="201.2" y="0" width="0" height="90">
+      <animate attributeName="width" keyTimes="0.0;0.25;0.40625;0.458333;0.5;1.0" values="0.0;0.0;297.6;297.6;0.0;0.0"
+               dur="19.2s" repeatCount="indefinite" calcMode="linear"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#clip-1)">
+    <text x="201.2" y="52.68" font-size="24" font-weight="600"
+          fill="url(#textGrad)" filter="url(#softGlow)">Aspiring AI Engineer</text>
+  </g>
+  <rect x="201.2" y="21.6" width="2.8" height="27.6" fill="#7C4DFF" filter="url(#softGlow)">
+    <animate attributeName="x" keyTimes="0.0;0.25;0.40625;0.458333;0.5;1.0" values="201.2;201.2;498.8;498.8;201.2;201.2"
+             dur="19.2s" repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
+  </rect>
+
+  <clipPath id="clip-2">
+    <rect x="97.04" y="0" width="0" height="90">
+      <animate attributeName="width" keyTimes="0.0;0.5;0.65625;0.708333;0.75;1.0" values="0.0;0.0;505.92;505.92;0.0;0.0"
+               dur="19.2s" repeatCount="indefinite" calcMode="linear"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#clip-2)">
+    <text x="97.04" y="52.68" font-size="24" font-weight="600"
+          fill="url(#textGrad)" filter="url(#softGlow)">Learning Python &amp; Machine Learning</text>
+  </g>
+  <rect x="97.04" y="21.6" width="2.8" height="27.6" fill="#7C4DFF" filter="url(#softGlow)">
+    <animate attributeName="x" keyTimes="0.0;0.5;0.65625;0.708333;0.75;1.0" values="97.04;97.04;602.96;602.96;97.04;97.04"
+             dur="19.2s" repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
+  </rect>
+
+  <clipPath id="clip-3">
+    <rect x="119.36" y="0" width="0" height="90">
+      <animate attributeName="width" keyTimes="0.0;0.75;0.90625;0.958333;1.0" values="0.0;0.0;461.28;461.28;0.0"
+               dur="19.2s" repeatCount="indefinite" calcMode="linear"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#clip-3)">
+    <text x="119.36" y="52.68" font-size="24" font-weight="600"
+          fill="url(#textGrad)" filter="url(#softGlow)">Building Real-World Projects 🚀</text>
+  </g>
+  <rect x="119.36" y="21.6" width="2.8" height="27.6" fill="#7C4DFF" filter="url(#softGlow)">
+    <animate attributeName="x" keyTimes="0.0;0.75;0.90625;0.958333;1.0" values="119.36;119.36;580.64;580.64;119.36"
+             dur="19.2s" repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
+  </rect>
+</svg> </a> <br/>  </div> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"> ## 🧬 About Me
 yaml
 name: "Muhammad Hunain Ejaz"
 role: "BS Computer Science Student"

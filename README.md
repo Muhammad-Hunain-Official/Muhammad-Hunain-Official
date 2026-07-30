@@ -128,7 +128,8 @@ fun_fact: "I believe consistency beats intensity — one commit at a time."
 
 <div align="center">
 💜 Thanks for visiting my profile!
-*"The expert in anything was once a beginner."*
+  <br/>
+"Consistency beats talent when talent doesn't stay consistent."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 

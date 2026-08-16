@@ -76,16 +76,6 @@ fun_fact: "I believe consistency beats intensity — one commit at a time."
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
- 📊 GitHub Analytics
-
-<div align="center">
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Hunain-Official&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=b983ff&icon_color=8a2be2&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Hunain-
-    Official&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=b983ff&text_color=c9d1d9"/> -->
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Hunain-Official&theme=radical&hide_border=true&background=0d1117&ring=b983ff&fire=8a2be2&currStreakLabel=b983ff"/>
-</div>
-
 📈 Contribution Graph
 
 <div align="center">

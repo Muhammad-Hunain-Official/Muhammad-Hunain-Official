@@ -16,7 +16,7 @@
 ## 🧬 About Me
 
 ```yaml
-name: "Muhammad Hunain Ejaz"
+name: "Muhammad Hunain "
 role: "BS Computer Science Student"
 career_goal: "Aspiring AI Engineer"
 location: "Pakistan"
